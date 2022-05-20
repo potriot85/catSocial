@@ -1,19 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "aa08ec72c9f081645a42",
-    "url": "/catSocial/static/css/main.8d875871.chunk.css"
+    "revision": "5df175a9cc4c7d4bfdf9",
+    "url": "/catSocial/static/css/main.89fa7859.chunk.css"
   },
   {
-    "revision": "aa08ec72c9f081645a42",
-    "url": "/catSocial/static/js/main.aa08ec72.chunk.js"
+    "revision": "5df175a9cc4c7d4bfdf9",
+    "url": "/catSocial/static/js/main.5df175a9.chunk.js"
   },
   {
-    "revision": "aa3b3b7718b3057c68e0",
-    "url": "/catSocial/static/js/1.aa3b3b77.chunk.js"
+    "revision": "0a62439ed47066a04908",
+    "url": "/catSocial/static/js/1.0a62439e.chunk.js"
   },
   {
     "revision": "47419fac412021b75b26",
     "url": "/catSocial/static/js/runtime~main.47419fac.js"
+  },
+  {
+    "revision": "c8efdfaf50ae466b880829d1ec88ddd7",
+    "url": "/catSocial/static/media/cat-work.c8efdfaf.jpg"
+  },
+  {
+    "revision": "bcefa929613c09eaaff58466b36113e8",
+    "url": "/catSocial/static/media/cat-looking-job.bcefa929.jpg"
   },
   {
     "revision": "902fd1fdd7fff5a8cbc5fe559607506b",
@@ -32,7 +40,7 @@ self.__precacheManifest = [
     "url": "/catSocial/static/media/bg.48d64ff7.jpg"
   },
   {
-    "revision": "9da5a0d0c4fabecc968194d8b4cc42ca",
+    "revision": "d0f3138b75fdf55faa5ea12e20427dd8",
     "url": "/catSocial/index.html"
   }
 ];
