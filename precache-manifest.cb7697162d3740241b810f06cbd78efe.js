@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9267f1e8d695473376e7",
-    "url": "/catSocial/static/css/main.ad97d6bb.chunk.css"
+    "revision": "576695d87aa28c969084",
+    "url": "/catSocial/static/css/main.1068cb67.chunk.css"
   },
   {
-    "revision": "9267f1e8d695473376e7",
-    "url": "/catSocial/static/js/main.9267f1e8.chunk.js"
+    "revision": "576695d87aa28c969084",
+    "url": "/catSocial/static/js/main.576695d8.chunk.js"
   },
   {
     "revision": "abb27bc5647d9feacee8",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/catSocial/static/media/bg.48d64ff7.jpg"
   },
   {
-    "revision": "fdf81d90923b400d7c195fb0915cc03c",
+    "revision": "d457e841ca6a298ca2ff3466ccbadaa8",
     "url": "/catSocial/index.html"
   }
 ];

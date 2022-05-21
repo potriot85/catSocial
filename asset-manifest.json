@@ -1,7 +1,7 @@
 {
-  "main.css": "/catSocial/static/css/main.ad97d6bb.chunk.css",
-  "main.js": "/catSocial/static/js/main.9267f1e8.chunk.js",
-  "main.js.map": "/catSocial/static/js/main.9267f1e8.chunk.js.map",
+  "main.css": "/catSocial/static/css/main.1068cb67.chunk.css",
+  "main.js": "/catSocial/static/js/main.576695d8.chunk.js",
+  "main.js.map": "/catSocial/static/js/main.576695d8.chunk.js.map",
   "static/js/1.abb27bc5.chunk.js": "/catSocial/static/js/1.abb27bc5.chunk.js",
   "static/js/1.abb27bc5.chunk.js.map": "/catSocial/static/js/1.abb27bc5.chunk.js.map",
   "runtime~main.js": "/catSocial/static/js/runtime~main.47419fac.js",
@@ -12,8 +12,8 @@
   "static/media/header.jpg": "/catSocial/static/media/header.8ad07077.jpg",
   "static/media/preloader.gif": "/catSocial/static/media/preloader.2f626a4e.gif",
   "static/media/index.css": "/catSocial/static/media/bg.48d64ff7.jpg",
-  "static/css/main.ad97d6bb.chunk.css.map": "/catSocial/static/css/main.ad97d6bb.chunk.css.map",
+  "static/css/main.1068cb67.chunk.css.map": "/catSocial/static/css/main.1068cb67.chunk.css.map",
   "index.html": "/catSocial/index.html",
-  "precache-manifest.55936269fde0104f902f08fb87ea5494.js": "/catSocial/precache-manifest.55936269fde0104f902f08fb87ea5494.js",
+  "precache-manifest.cb7697162d3740241b810f06cbd78efe.js": "/catSocial/precache-manifest.cb7697162d3740241b810f06cbd78efe.js",
   "service-worker.js": "/catSocial/service-worker.js"
 }
