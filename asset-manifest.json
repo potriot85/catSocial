@@ -1,9 +1,9 @@
 {
-  "main.css": "/catSocial/static/css/main.99351368.chunk.css",
-  "main.js": "/catSocial/static/js/main.a85243c4.chunk.js",
-  "main.js.map": "/catSocial/static/js/main.a85243c4.chunk.js.map",
-  "static/js/1.295749f3.chunk.js": "/catSocial/static/js/1.295749f3.chunk.js",
-  "static/js/1.295749f3.chunk.js.map": "/catSocial/static/js/1.295749f3.chunk.js.map",
+  "main.css": "/catSocial/static/css/main.d1b9563e.chunk.css",
+  "main.js": "/catSocial/static/js/main.39363cad.chunk.js",
+  "main.js.map": "/catSocial/static/js/main.39363cad.chunk.js.map",
+  "static/js/1.7c8bc279.chunk.js": "/catSocial/static/js/1.7c8bc279.chunk.js",
+  "static/js/1.7c8bc279.chunk.js.map": "/catSocial/static/js/1.7c8bc279.chunk.js.map",
   "runtime~main.js": "/catSocial/static/js/runtime~main.47419fac.js",
   "runtime~main.js.map": "/catSocial/static/js/runtime~main.47419fac.js.map",
   "static/media/cat-work.jpg": "/catSocial/static/media/cat-work.c8efdfaf.jpg",
@@ -13,8 +13,8 @@
   "static/media/logo.jpg": "/catSocial/static/media/logo.7b9ffdcf.jpg",
   "static/media/preloader.gif": "/catSocial/static/media/preloader.2f626a4e.gif",
   "static/media/index.css": "/catSocial/static/media/bg.48d64ff7.jpg",
-  "static/css/main.99351368.chunk.css.map": "/catSocial/static/css/main.99351368.chunk.css.map",
+  "static/css/main.d1b9563e.chunk.css.map": "/catSocial/static/css/main.d1b9563e.chunk.css.map",
   "index.html": "/catSocial/index.html",
-  "precache-manifest.1060921375f4abba0888682a32d4ad4d.js": "/catSocial/precache-manifest.1060921375f4abba0888682a32d4ad4d.js",
+  "precache-manifest.d4f7ef7d2c77d2c3000b07b3e7c50dad.js": "/catSocial/precache-manifest.d4f7ef7d2c77d2c3000b07b3e7c50dad.js",
   "service-worker.js": "/catSocial/service-worker.js"
 }
